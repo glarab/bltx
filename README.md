@@ -10,7 +10,7 @@ https://material.io/guidelines/components/steppers.html .
 
 
 ## 3. Explica cómo organizas en base a tu experiencia un proyecto en Android utilizando MVP e implementando Clean Architecture, menciona los paquetes que utilizarías y la distribución de módulos.
-![alt text](https://github.com/glarab/bltx/blob/master/Captura%20de%20Pantalla%202020-01-04%20a%20la(s)%2018.21.40.png?raw=true)
+![alt text](https://github.com/glarab/bltx/blob/master/Captura%20de%20Pantalla%202020-01-04%20a%20la(s)%2018.18.59.png?raw=true)
 ![alt text](https://github.com/glarab/bltx/blob/master/Captura%20de%20Pantalla%202020-01-04%20a%20la(s)%2018.21.40.png?raw=true)
 ![alt text](https://github.com/glarab/bltx/blob/master/Captura%20de%20Pantalla%202020-01-04%20a%20la(s)%2018.19.32.png?raw=true)
 
