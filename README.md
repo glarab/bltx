@@ -3,8 +3,8 @@ ANDROID E3-SR
 
 ## 1. Propón los pasos, clases, layouts y recursos que utilizarías para hacer un Stepper reutilizable y que cumpla con los parámetros definidos en la guía de material design:
 https://material.io/guidelines/components/steppers.html . 
+![alt text](https://material.io/archive/guidelines/assets/0B7WCemMG6e0VTVpuUmNUSUhRZTA/components-acux-stepper-altlblplcmntoptstp.png)
 
-https://material.io/archive/guidelines/assets/0B7WCemMG6e0VTVpuUmNUSUhRZTA/components-acux-stepper-altlblplcmntoptstp.png
 
 ## 2. Crea un shake action en android y pon el código.
 
