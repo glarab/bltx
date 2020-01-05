@@ -13,7 +13,9 @@ Pasos para implementar:
 
  1. Se implementar  un customview el cual heredara de la clase View, en el customview dibujaremos   un recyclerView horizontal y un ViewPager(Opcional).
  2. Se implementara el adapter AdapterStepper.kl, y se maqueta el item_step.xml como se muestra en la imagen:
+ 
 ![alt text](https://github.com/glarab/bltx/blob/master/Captura%20de%20Pantalla%202020-01-05%20a%20la(s)%2000.50.38.png?raw=true)
+
 En el adapter contemplaremos los estados, cambios en la vista para cumplir con los otros estados. Para el item de la primera posición se ocultara la linea inicial y para el item de la ultima posición se ocultara la linea final.
 
 3. Se implementa el bean Step, sus atributos seran:
@@ -25,25 +27,25 @@ En el adapter contemplaremos los estados, cambios en la vista para cumplir con l
 4. Cada ves que se intente avanzar o retroceder se enviara se invocara un listener cuyo atributo será un collback que invocara a un método do para ejecutar o cancelar la acción.
 5. Se  invocaran interfaces listener cada ves que se cambie de pagina, se cancele el paso, se invoque la ultima pagina, etc.
 
-***Clases:***
-MyStepperView.kl
-IMyStepperView.kl
-AdapterStepper.kl
-Step.kl
-StepperListener.kl
-AdapterPages.kl
-ValidateStep.kl
+- ***Clases:***
+- MyStepperView.kl
+- IMyStepperView.kl
+- AdapterStepper.kl
+- Step.kl
+- StepperListener.kl
+- AdapterPages.kl
+- ValidateStep.kl
 
 
-***layouts:***
-item_step.xml
+- ***layouts:***
+- item_step.xml
 
-***drawable:***
-ic_check.xml
-circle.xml
+- ***drawable:***
+- ic_check.xml
+- circle.xml
 
-***values:***
-attrs_my_stepper_view.xml
+- ***values:***
+- attrs_my_stepper_view.xml
 
 
 ## 2. Crea un shake action en android y pon el código.
