@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="CompassView">
+        <attr name="colorCircle" format="color" />
+        <attr name="colorLine" format="color|reference" />
+    </declare-styleable>
+</resources>
