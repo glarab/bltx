@@ -53,10 +53,12 @@ En el adapter contemplaremos los estados, cambios en la vista para cumplir con l
 **Ver proyecto ShakeAction**
 
 ## 3. Explica cómo organizas en base a tu experiencia un proyecto en Android utilizando MVP e implementando Clean Architecture, menciona los paquetes que utilizarías y la distribución de módulos.
-**APP**
 
+Yo propongo dividir en 3 modulos .
+
+**APP**
 ![alt text](https://github.com/glarab/bltx/blob/master/Captura%20de%20Pantalla%202020-01-04%20a%20la(s)%2018.18.59.png?raw=true)
-Es la capa que interactúa con la interfaz de usuario e interactua con el DOMAI.:
+Es la capa que interactúa con la interfaz de usuario e interactua con el DOMAIN:
 *Paquetes*:	
 
  - **broadcast**: Broadcast receivers.
