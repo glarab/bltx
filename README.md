@@ -88,3 +88,5 @@ Recomiendo implementar  el patron **repositorio** que, para una determinada soli
 
 ## 4. Diseña un custom view de una brújula utilizando canvas y pon el código que utilizarías en esta sección.
 **Ver proyecto MyCompass**
+
+https://youtu.be/ggKZFAkAy1w!
