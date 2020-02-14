@@ -1,5 +1,4 @@
-# bltx
-ANDROID E3-SR
+# 
 
 ## 1. Propón los pasos, clases, layouts y recursos que utilizarías para hacer un Stepper reutilizable y que cumpla con los parámetros definidos en la guía de material design:
 ~~https://material.io/guidelines/components/steppers.html~~ 
